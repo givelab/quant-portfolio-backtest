@@ -2,6 +2,11 @@
 
 個人投資家向けの教育・シミュレーション目的のポートフォリオ長期試算Webアプリです。バックエンドは使わず、Next.js内のTypeScript関数で計算し、入力条件はlocalStorageに保存します。
 
+<img width="1376" height="874" alt="Image" src="https://github.com/user-attachments/assets/16298124-4de4-47f4-b8be-1c6e2a871e69" />
+
+<img width="1276" height="896" alt="Image" src="https://github.com/user-attachments/assets/ed667714-6d82-4247-a162-0e5cb3f25e23" />
+
+
 ## Tech Stack
 
 - Next.js App Router
